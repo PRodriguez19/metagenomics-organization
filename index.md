@@ -53,7 +53,7 @@ In this lesson, you will learn the following:
 > [Instructor notes](https://carpentries-lab.github.io/metagenomics-workshop/guide/index.html).
 {: .prereq}
 
-This lesson is the first one of the [Metagenomics Workshop](https://carpentries-lab.github.io/metagenomics-workshop/), comprised of four lessons. 
+This lesson is the first one of the [Metagenomics Workshop](https://prodriguez19.github.io/metagenomics-workshop/), comprised of four lessons. 
 
 ## Lesson Reference
 This page and the three episodes in this lesson are adapted from the lesson [Project Organization and Management for Genomics](https://datacarpentry.org/organization-genomics/).
